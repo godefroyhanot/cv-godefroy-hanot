@@ -1,6 +1,5 @@
 h2 {
-  color: red;
-  background-color: aliceblue;
+  background-color: #fff647;
   font-family: "Ubuntu", sans-serif;
 }
 
@@ -21,5 +20,5 @@ ul {
 }
 
 li::before {
-  content: "☞";
+  content: ">";
 }
