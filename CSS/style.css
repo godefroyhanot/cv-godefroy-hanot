@@ -1,3 +1,11 @@
+/* CV en format A4 */
+body {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  color: black;
+}
+
 /* abstract - Styles pour les en-têtes */
 h1.nom {
   font-family: Arial, Helvetica, sans-serif;
